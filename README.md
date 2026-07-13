@@ -1,10 +1,8 @@
 # Olá, eu sou o Vitor Souza! 👋
 
-## 💻 Analista de Dados | Docente de Tecnologia | Microsoft Data Platform
+## 💻 Analista de Dados | Microsoft Data Platform
 
 Sou **Analista de Dados** formado, apaixonado por transformar dados em informações estratégicas para apoiar a tomada de decisão.
-
-Atualmente atuo como **Docente de Tecnologia no Senac RJ**, contribuindo para a formação de novos profissionais nas áreas de tecnologia, programação, Business Intelligence e Análise de Dados.
 
 Tenho experiência em análise de dados, visualização de informações e desenvolvimento de soluções utilizando o ecossistema Microsoft e Python.
 
