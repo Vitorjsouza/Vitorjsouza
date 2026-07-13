@@ -7,7 +7,7 @@
 <!-- ======================= TYPING ======================= -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+Vitor+Souza!;Em+forma%C3%A7%C3%A3o+como+Analista+de+Dados;Docente+de+Tecnologia+no+Senac+RJ;Python+%7C+Power+BI+%7C+SQL+%7C+Azure;Transformando+dados+em+decis%C3%B5es."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+Vitor+Souza!;Em+forma%C3%A7%C3%A3o+como+Analista+de+Dados;Python+%7C+Power+BI+%7C+SQL+%7C+Azure;Transformando+dados+em+decis%C3%B5es."/>
 </p>
 
 ---
