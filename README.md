@@ -1,28 +1,29 @@
-<!-- ======================== BANNER ======================== -->
+```markdown
+<!-- ======================= BANNER ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vitor%20Souza&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20|%20Technology%20Instructor%20|%20Microsoft%20Data%20Platform&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Vitor%20Souza&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20|%20Technology%20Instructor&descAlignY=58"/>
 </p>
 
-<!-- ======================== TYPING ======================== -->
+<!-- ======================= TYPING ======================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Analista+de+Dados;Docente+de+Tecnologia+no+Senac+RJ;Microsoft+Certified+PL-300;Python+%7C+Power+BI+%7C+SQL+%7C+Azure;Transformando+dados+em+decis%C3%B5es" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+Vitor+Souza!;Em+forma%C3%A7%C3%A3o+como+Analista+de+Dados;Docente+de+Tecnologia+no+Senac+RJ;Python+%7C+Power+BI+%7C+SQL+%7C+Azure;Transformando+dados+em+decis%C3%B5es."/>
 </p>
 
 ---
 
-# 👋 Olá! Eu sou o Vitor Souza
+# 👋 Sobre mim
 
-🎓 **Analista de Dados**
+🎓 Em formação como **Analista de Dados**
 
-📊 Apaixonado por Business Intelligence, Ciência de Dados, Inteligência Artificial e desenvolvimento de soluções baseadas em dados.
+📊 Apaixonado por tecnologia, Business Intelligence e análise de dados.
 
-Meu objetivo é utilizar tecnologia e análise de dados para transformar informações em conhecimento e apoiar decisões estratégicas.
+Meu foco é desenvolver soluções que transformem dados em informações estratégicas para apoiar a tomada de decisões.
 
 ---
 
-# 🚀 Stack Tecnológica
+# 🚀 Tecnologias
 
 <p align="center">
 
@@ -44,41 +45,30 @@ Meu objetivo é utilizar tecnologia e análise de dados para transformar informa
 
 ---
 
-# 📚 Competências
+# 📚 Atualmente estudando
 
-✔ Análise Descritiva
-
-✔ Análise Preditiva
-
-✔ Business Intelligence
-
-✔ Modelagem de Dados
-
-✔ ETL
-
-✔ Dashboards Executivos
-
-✔ SQL
-
-✔ Python
-
-✔ Microsoft Azure
-
-✔ Power Platform
-
-✔ Power BI
+- 📈 Análise de Dados
+- 🐍 Python
+- 📊 Power BI
+- 🗄️ SQL
+- ☁️ Microsoft Azure
+- 🤖 Inteligência Artificial
+- 📉 Análise Descritiva
+- 📊 Análise Preditiva
 
 ---
 
-# 🏆 Certificações
+# 🏆 Certificação
 
-🎖 Microsoft Certified
+<p align="center">
 
-**Power BI Data Analyst Associate (PL-300)**
+<img src="https://img.shields.io/badge/Microsoft-PL--300-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+</p>
 
 ---
 
-# 📈 Estatísticas
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -110,7 +100,7 @@ Meu objetivo é utilizar tecnologia e análise de dados para transformar informa
 
 ---
 
-# 📊 Atividade
+# 📈 Contribuições
 
 <p align="center">
 
@@ -120,34 +110,36 @@ Meu objetivo é utilizar tecnologia e análise de dados para transformar informa
 
 ---
 
-# 🌎 Áreas de Interesse
+# 💡 Objetivos
 
-- 📊 Data Analytics
-- 🤖 Inteligência Artificial
-- 📈 Business Intelligence
-- ☁️ Cloud Computing
-- 🧠 Machine Learning
-- 📚 Educação em Tecnologia
-- ⚙️ Automação de Processos
-- 🏢 Microsoft Fabric
-- 📊 Engenharia de Dados
+🎯 Evoluir continuamente na área de Dados.
+
+🎯 Desenvolver projetos utilizando Python, SQL e Power BI.
+
+🎯 Compartilhar conhecimento através da educação.
+
+🎯 Contribuir com projetos Open Source.
+
+🎯 Especializar-me em soluções Microsoft para Dados e IA.
 
 ---
 
-# 📫 Conecte-se comigo
+# 🌎 Conecte-se comigo
 
 <p align="center">
 
 <a href="https://github.com/Vitorjsouza">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<!-- Substitua pelo seu LinkedIn -->
+<a href="https://linkedin.com/in/SEU-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:seuemail@exemplo.com">
-<img src="https://img.shields.io/badge/E-mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<!-- Substitua pelo seu e-mail -->
+<a href="mailto:SEUEMAIL@EMAIL.COM">
+<img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -155,13 +147,18 @@ Meu objetivo é utilizar tecnologia e análise de dados para transformar informa
 ---
 
 <p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
-> **"Transformando dados em decisões inteligentes."**
+---
+
+<p align="center">
+
+### ⭐ "Transformando dados em conhecimento e conhecimento em decisões."
 
 </p>
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2C5364,100:0F2027"/>
 </p>
+```
